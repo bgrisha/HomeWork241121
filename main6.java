@@ -1,7 +1,9 @@
 package ecomHomeWork241121;
 
-//כתוב פונקציה שמקבלת שלושה מספרים ומחזירה את הממוצע שלהם.
+// 14 - כתוב פונקציה שמקבלת שלושה מספרים ומחזירה את הממוצע שלהם.
 // – על מנת להחזיר ערך מפונקציה השתמשו ב-return.
+
+
 
 public class main6 {
 
@@ -18,3 +20,12 @@ public class main6 {
 		
 	}
 }
+
+// 15 -Class variables − Class variables also known as static variables
+// are declared with the static keyword in a class,
+//but outside a method, constructor or a block. 
+//There would only be one copy of each class variable per class, 
+//regardless of how many objects are created from it.
+
+// Local variables are declared in methods, constructors, or blocks and 
+//exits only in method, constructor, or block.
